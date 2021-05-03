@@ -1,0 +1,27 @@
+.container {
+    max-width: 1140px;
+    padding: 0 20px;
+    margin: auto o;
+}
+
+nav {
+    background-color: rgb(218, 94, 94);
+    padding: 12px 0;
+}
+
+.navigation ul {
+    padding: 0 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.navigationli {
+    display: inline-block;
+    position: relative;
+    margin-right: 36px;
+}
+
+.navigation a {
+    text-decoration: none;
+    color: blueviolet;
+}
