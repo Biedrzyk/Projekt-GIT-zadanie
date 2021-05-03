@@ -9,20 +9,19 @@ nav {
     padding: 12px 0;
 }
 
-.navigation {
-    
-    ul {
+.navigation ul {
     padding: 0 0;
     margin: 0;
     list-style-type: none;
 }
-    li {
+
+.navigationli {
     display: inline-block;
     position: relative;
     margin-right: 36px;
 }
-    a {
+
+.navigation a {
     text-decoration: none;
     color: blueviolet;
-}
 }
