@@ -45,3 +45,35 @@
 .menu {
   text-transform: uppercase;
 }
+
+/* Services */
+
+.features-wrapper {
+  display: flex;
+}
+
+.feature {
+  flex: 0 0 33.333333%;
+  max-width: 33.333333%;
+  text-align: center;
+} 
+
+.feature i {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    color: darkblue;
+    font-size: 40px;
+    background-color: yellow;
+    border-radius: 50%;  
+}
+
+.feature-title {
+  color: green;
+  padding: 0 24px;
+}
+
+.feature-description {
+  padding: 0 24px;
+  color: lighten(brown, 25%); 
+}
